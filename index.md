@@ -10,5 +10,12 @@ A Case Study on an Online Strategy Game"</em>. </p>
 	<h2 id="overview"> General Overview of our Data</h2>
 	<p> holi </p>
 	<h2 id="harbingers"> Linguistic Harbingers of Betrayal</h2>
+	<h3 id="sentiment"> </h3>
+	<p> holi </p>
+	<h3 id="politeness"> </h3>
+	<p> holi </p>
+	<h3 id="subjectivity"> </h3>
+	<p> holi </p>
+	<h3 id="talkativeness"> </h3>
 	<p> holi </p>
 </div><!-- /.blurb -->
