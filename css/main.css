@@ -25,6 +25,7 @@ h1 {
 }
 h2 {
     font-size: 2em;
+    color: rgb(179, 0, 0);
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -35,6 +36,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 0.2em;
+    color: gray; 
 }
 
 ul.posts { 
