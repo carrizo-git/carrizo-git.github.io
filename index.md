@@ -19,3 +19,5 @@ A Case Study on an Online Strategy Game"</em>. </p>
 	<h3 id="talkativeness"> Talkativeness</h3>
 	<p> holi </p>
 </div><!-- /.blurb -->
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
