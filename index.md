@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Linguistic Harbingers of Betrayal
 ---
 <div class="blurb">
-	<h1>Hi there, I'm Hank Quinlan!</h1>
-	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+	<h1>Linguistic Harbingers of Betrayal>
+	<p>Welcome to our page where we conduct a replication of the study <em>Linguistic Harbingers of Betrayal:
+A Case Study on an Online Strategy Game</em> </p>
 </div><!-- /.blurb -->
