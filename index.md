@@ -9,4 +9,6 @@ title: Linguistic Harbingers of Betrayal
 A Case Study on an Online Strategy Game"</em>. </p>
 	<h2 id="overview"> General Overview of our Data</h2>
 	<p> holi </p>
+	<h2 id="harbingers"> Linguistic Harbingers of Betrayal</h2>
+	<p> holi </p>
 </div><!-- /.blurb -->
